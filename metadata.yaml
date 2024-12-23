@@ -1,11 +1,16 @@
 _repo: The-commonwealth-of-cells-b-Some-popular-essays-on-human-physiology_74813
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74813-h/images/cover.jpg
 creator:
   author:
     agent_name: Spurrell, Herbert George Flaxman
     gutenberg_agent_id: '57663'
     url: http://www.gutenberg.org/2009/agents/57663
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74813#The-commonwealth-of-cells-b-Some-popular-essays-on-human-physiology
 gutenberg_issued: '2024-11-30'
 gutenberg_type: Text
 identifiers:
